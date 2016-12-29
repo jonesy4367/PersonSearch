@@ -38,3 +38,10 @@ C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\b
 C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\obj\Debug\PersonSearch.csprojResolveAssemblyReference.cache
 C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\obj\Debug\PersonSearch.dll
 C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\obj\Debug\PersonSearch.pdb
+C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\bin\Ninject.dll
+C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\bin\Ninject.Web.Common.dll
+C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\bin\Ninject.Web.Mvc.dll
+C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\bin\WebActivatorEx.dll
+C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\bin\Ninject.xml
+C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\bin\Ninject.Web.Common.xml
+C:\Users\jzelenik\Desktop\My Stuff\My Stuff\Projects\PersonSearch\PersonSearch\bin\Ninject.Web.Mvc.xml
